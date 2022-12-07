@@ -2,4 +2,4 @@
 
 ## To play the game click below
 
-Ghost Maze(/.game/)
+[Ghost Maze](./game/)
