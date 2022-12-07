@@ -1,5 +1,9 @@
 # Welcome to Ghost Maze
 
-## To play the game click below
+## To play Ghost Maze
 
-[Ghost Maze](./game/)
+[Ghost Maze](./sketch.js/)
+
+## Files and libraries
+
+[Game Folder](./game/)
