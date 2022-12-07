@@ -1,1 +1,5 @@
-hello there welcome to my game
+# Welcome to Ghost Maze
+
+## To play the game click below
+
+Ghost Maze(/.game/)
