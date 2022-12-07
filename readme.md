@@ -4,7 +4,7 @@ A simple mouse interactive game, where you (the player) make your way through th
 
 ## To play Ghost Maze
 
-[Ghost Maze](./sketch.js/)
+[Ghost Maze](https://editor.p5js.org/Towela3/full/WaKRhsxjD)
 
 ## Files and libraries
 
